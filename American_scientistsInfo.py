@@ -1,7 +1,7 @@
 #!usr/bin/env python3.7
 #-*- coding:utf-8 -*-
 
-__author__ = 'shenlingyun'
+__author__ = 'sherry-robot'
 
 import time
 import requests
